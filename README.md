@@ -1,2 +1,2 @@
 # Pythoninitial
-My trials in learning python
+This repository serves as a testbed for my initial journey into learning Python.
